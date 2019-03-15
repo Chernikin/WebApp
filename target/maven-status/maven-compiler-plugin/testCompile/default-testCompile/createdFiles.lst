@@ -1,0 +1,3 @@
+com\chernikin\webapp\database\dao\UserDAOTest.class
+com\chernikin\webapp\database\dao\ProductDAOTest.class
+com\chernikin\webapp\database\dao\OrderDAOTest.class
